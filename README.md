@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawazadil7&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawazadil7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnawazadil7" alt="shahnawazadil7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=shahnawazadil7](https://github-profile-trophy.vercel.app/?shahnawazaadil7=ryo-ma&theme=onedark)" alt="shahnawazadil7" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning and NLP**
 
