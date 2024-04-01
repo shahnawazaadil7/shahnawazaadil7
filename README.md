@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohd Shahnawaz Aadil</h1>
-<h3 align="center">I'm Mohd Shahnawaz Aadil, a dual-degree student studying Data Science at IIT Madras and Lords Institute of Engineering and Technology, Hyderabad.</h3>
+<h3 align="center">I'm Mohd Shahnawaz Aadil, currently pursuing a dual degree in Data Science at IIT Madras and Lords Institute of Engineering and Technology, Hyderabad. Skilled in data analysis and machine learning, I'm passionate about leveraging data science to drive innovation and unlock insights. With a strong foundation in data science principles and hands-on experience gained through academic projects, I thrive on pushing the boundaries of what's possible with data. Committed to continuous learning, I'm constantly exploring new courses and platforms to deepen my expertise and stay at the forefront of innovation in this dynamic field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawazaadil7&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawazaadil7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnawazaadil7" alt="shahnawazaadil7" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and NLP**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@shahnawazaadil](https://medium.com/@shahnawazaadil)
 
