@@ -87,11 +87,7 @@ A local-first AI chat app with **three model experiences: Fast âš¡, Deep Think ð
 
 <div align="center">
 
-<img
-    src="https://github-profile-trophy-kannan.vercel.app/?username=shahnawazaadil7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=shahnawazaadil7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 <img src="https://github-readme-stats.vercel.app/api?username=shahnawazaadil7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazaadil7&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
