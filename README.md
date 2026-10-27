@@ -1,35 +1,53 @@
-<h1 align="center">Hi 👋, I'm Mohd Shahnawaz Aadil</h1>
-<h3 align="center">A Data Science scholar currently pursuing dual degrees in Data Science at IIT Madras and Lords Institute of Engineering and Technology, Hyderabad. Skilled in data analysis and machine learning, I'm passionate about leveraging data science to drive innovation and unlock insights. With a strong foundation in data science principles and hands-on experience gained through academic projects, I thrive on pushing the boundaries of what's possible with data. Committed to continuous learning, I'm constantly exploring new courses and platforms to deepen my expertise and stay at the forefront of innovation in this dynamic field.</h3>
+<h1 align="center">Hi, I'm Mohd Shahnawaz Aadil 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahnawazaadil7&label=Profile%20views&color=0e75b6&style=flat" alt="shahnawazaadil7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnawazaadil7" alt="shahnawazaadil7" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
-
-- 📝 I regularly write articles on [https://medium.com/@shahnawazaadil](https://medium.com/@shahnawazaadil)
-
-- 💬 Ask me about **Data Science and Machine Learning**
-
-- 📫 How to reach me **shahnawazaadil7@gmail.com**
-
-- 📄 Know about my experiences [https://shahnawazdata.files.wordpress.com/2024/04/resume-ats.pdf](https://shahnawazdata.files.wordpress.com/2024/04/resume-ats.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahnawazaadil7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahnawazaadil7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahnawazaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnawazaadil" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohdshahnawazaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohdshahnawazaadil" height="30" width="40" /></a>
-<a href="https://instagram.com/shahnawazaadil7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahnawazaadil7" height="30" width="40" /></a>
-<a href="https://medium.com/@shahnawazaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shahnawazaadil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shahnawazaadil7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahnawazaadil7" height="30" width="40" /></a>
+<p align="center">
+  <strong>AI & Software Development | Master of Artificial Intelligence @ RMIT University</strong><br>
+  Melbourne, Australia
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/shahnawazaadil">LinkedIn</a> ·
+  <a href="https://shahnawazaadil7.github.io">Portfolio</a> ·
+  <a href="https://medium.com/@shahnawazaadil">Medium</a> ·
+  <a href="mailto:shahnawazaadil7@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawazaadil7&show_icons=true&locale=en&layout=compact" alt="shahnawazaadil7" /></p>
+About me
+I'm a Computer Science & Data Science graduate currently pursuing a Master of Artificial Intelligence at RMIT University. I enjoy building practical AI applications—from local language-model interfaces to computer vision and retrieval-based systems—and turning ideas into tools people can use.
+- 🔭 Currently building: Hearth, a privacy-focused, multi-model AI chat application.
+- 🧠 Interested in: Generative AI, LLM applications, machine learning, NLP, and software development.
+- 💼 Experience: Software development internship focused on Generative AI at ADVI Group of Companies.
+- 🌱 Always learning: Better ways to design, evaluate, and ship useful AI systems.
+Featured projects
+🔥 Hearth — Private, Multi-Model AI Chat
+- Built a local-first AI chat interface powered by Ollama, with configurable model profiles for fast responses, deeper reasoning, and more unrestricted interactions.
+- Implemented streamed responses, conversation search and history, image attachments, per-chat model settings, and privacy controls.
+Project stack: React, TypeScript, Ollama, local LLMs, SQLite-backed app features.  
+<!-- Add a link to the Hearth repository here when it is public. -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawazaadil7&show_icons=true&locale=en" alt="shahnawazaadil7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazaadil7&" alt="shahnawazaadil7" /></p>
+🤖 AI Coding Assistant & Document Analysis System
+- Developed an AI coding assistant using DeepSeek-R1 (1.5B) for coding support, debugging assistance, and completions.
+- Built a retrieval-augmented generation (RAG) document Q&A workflow to help users find and work with information in documents.
+🤟 Signify AI — Hand Sign Recognition
+- Collaborated on a Smart India Hackathon 2024 project for Indian Sign Language recognition, using MediaPipe hand landmarks and neural networks.
+- Worked with a dataset of 57,600 images to support an interactive hand-sign recognition experience.
+🚀 Space Y — Launch Viability Analysis
+- Compared machine-learning approaches to predict rocket landing outcomes using historical SpaceX-related data.
+- Explored logistic regression, SVM, decision trees, and KNN as part of an IBM capstone project.
+Skills & tools
+Programming & data: Python · SQL · C · NumPy · Pandas
+AI & machine learning: Scikit-learn · NLP · RAG · LLM applications · MediaPipe
+Visualisation & apps: Matplotlib · Seaborn · Plotly · Streamlit · Tableau
+Developer tools: Git · GitHub · Ollama
+Education
+- Master of Artificial Intelligence — RMIT University, Melbourne (2026–2027, in progress)
+- Bachelor of Engineering, Computer Science & Data Science — Lords Institute of Engineering and Technology, Hyderabad (2021–2025) · CGPA: 9.23/10
+Connect
+<a href="https://linkedin.com/in/shahnawazaadil">LinkedIn</a> ·
+<a href="https://github.com/shahnawazaadil7">GitHub</a> ·
+<a href="https://kaggle.com/mohdshahnawazaadil">Kaggle</a> ·
+<a href="https://medium.com/@shahnawazaadil">Medium</a> ·
+<a href="mailto:shahnawazaadil7@gmail.com">Email</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazaadil7&amp;layout=compact&amp;hide_border=true" alt="Most-used languages on GitHub" />
+</p>
